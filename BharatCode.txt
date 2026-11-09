@@ -1,0 +1,21 @@
+Project Name: CampusMate AI
+
+Tagline: Helping Students Learn, Organize & Grow.
+
+Problem: College students often find it difficult to understand notices, track deadlines and organize academic tasks.
+
+Solution: CampusMate AI is a multilingual AI college companion that helps students understand notices, manage deadlines and organize their academic life.
+
+Target Users: College students.
+
+Category: Learning & Education
+
+Planned Features:
+
+1. Notice Intelligence
+2. Deadline Tracker
+3. Smart To-Do
+4. English, Marathi and Hindi Language Support
+5. Ask CampusMate
+
+Technology: BharatCode AI Model API
